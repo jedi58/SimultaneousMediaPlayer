@@ -1,4 +1,4 @@
-# SimultaneousMediaPlayer
+# MultiTrackMediaPlayer
 A very basic JavaScript object for playing multiple audio tracks at the same time
 
 Example usage:
@@ -20,7 +20,7 @@ Example usage:
     <li class="player__display">Some descriptive text</li>
 </ul>
 <script type="text/javascript">
-    SimultaneousMediaPlayer.addPlayer('player_1', [
+    MultiTrackMediaPlayer.addPlayer('player_1', [
         'example1.mp3',
         'example2.mp3'
     ]);
