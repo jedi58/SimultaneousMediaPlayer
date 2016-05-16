@@ -4,7 +4,7 @@
  * when the play button is clicked.
  * Paths can be specified to these files
  */
-SimultaneousMediaPlayer.addPlayer('player_1', [
+MultiTrackMediaPlayer.addPlayer('player_1', [
     'example1.mp3',
     'example2.mp3'
 ]);
